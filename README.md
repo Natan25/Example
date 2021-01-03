@@ -1,2 +1,2 @@
 # Example
-This is an example repository to illustrate Github tools for DevPSU Startup.
+This is an example repository to illustrate how to use Github's Kanban board for DevPSU Startup.
